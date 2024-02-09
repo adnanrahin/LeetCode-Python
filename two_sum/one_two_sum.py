@@ -1,6 +1,3 @@
-from _ast import List
-
-
 class Solution(object):
     def twoSum(self, nums, target):
         duplicates = {}
