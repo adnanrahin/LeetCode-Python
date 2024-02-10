@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (LeetCode-Python)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (LeetCode-Python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="python_10" project-jdk-type="Python SDK" />
 </project>
